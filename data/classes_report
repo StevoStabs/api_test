@@ -1,0 +1,5930 @@
+[
+  {
+    "Class Name": "RICE-VIRT-DMKT-PT-05-2022-U-LOLC-MW",
+    "Class Start Date": "5/2/2022",
+    "Class End Date": "9/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-FSF-PT-05-2022-U-LOLC-MTTh",
+    "Class Start Date": "5/16/2022",
+    "Class End Date": "10/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-FIN-PT-05-2022-U-LOLC-MTTh",
+    "Class Start Date": "5/9/2022",
+    "Class End Date": "10/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "RICE-VIRT-BO-FSF-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/10/2021",
+    "Class End Date": "5/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCB-VIRT-UXUI-PT-04-2022-U-LOL-TTH(A)",
+    "Class Start Date": "4/26/2022",
+    "Class End Date": "10/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-UXUI-PT-04-2022-U-LOL-TTH(B)",
+    "Class Start Date": "4/26/2022",
+    "Class End Date": "10/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UBHM-BRM-FSF-PT-03-2022-U-C-TTH",
+    "Class Start Date": "3/29/2022",
+    "Class End Date": "9/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "GT-VIRT-UXUI-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UW-VIRT-FSF-FT-12-2021-U-LOL-M-F",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "3/16/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UADEL-ADEL-FSF-PT-08-2021-U-C-MTTh",
+    "Class Start Date": "8/30/2021",
+    "Class End Date": "2/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UTA-VIRT-BO-FSF-PT-09-2021-U-B-MW (A)",
+    "Class Start Date": "9/8/2021",
+    "Class End Date": "3/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "RUT-VIRT-DATA-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/30/2021",
+    "Class End Date": "3/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-DMKT-PT-04-2022-U-LOLC-MW",
+    "Class Start Date": "4/25/2022",
+    "Class End Date": "8/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UCLA-VIRT-CYBER-PT-04-2022-U-LOL-TTH",
+    "Class Start Date": "4/26/2022",
+    "Class End Date": "10/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "CHEESE-VIRT-CYBER-PT-04-2022-U-LOL-TTH",
+    "Class Start Date": "4/26/2022",
+    "Class End Date": "9/20/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "PEPP-VIRT-DMKT-PT-04-2022-U-LOLC-TTH",
+    "Class Start Date": "4/26/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UR-VIRT-DATA-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/10/2021",
+    "Class End Date": "5/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "WAUS-VIRT-FSF-PT-05-2022-U-LOLC-MTTh",
+    "Class Start Date": "5/9/2022",
+    "Class End Date": "10/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCLA-VIRT-CYBER-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/31/2022",
+    "Class End Date": "7/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "USYD-VIRT-CYBER-PT-05-2022-U-LOLC-MTTh",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "11/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "MSU-VIRT-CYBER-PT-04-2022-U-LOL-TTH",
+    "Class Start Date": "4/26/2022",
+    "Class End Date": "10/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-UXUI-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/22/2022",
+    "Class End Date": "8/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UTSA-VIRT-UXUI-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/24/2022",
+    "Class End Date": "8/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "BUT-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CARL-VIRT-DATA-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/23/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "WAUS-VIRT-CYBER-PT-05-2022-U-LOLC-MWSa",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "11/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "IE-VIRT-FSF-PT-06-2022-U-LOLC-MTTH",
+    "Class Start Date": "6/6/2022",
+    "Class End Date": "12/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UW-SEA-FSF-PT-04-2022-U-C-TTH",
+    "Class Start Date": "4/12/2022",
+    "Class End Date": "10/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UofO-VIRT-CYBER-PT-04-2022-U-LOL-MW",
+    "Class Start Date": "4/25/2022",
+    "Class End Date": "10/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-DMKT-PT-04-2022-U-LOLC-MW",
+    "Class Start Date": "4/25/2022",
+    "Class End Date": "9/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-CYBER-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/14/2022",
+    "Class End Date": "8/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-DATA-11-2021-U-C-MTTh",
+    "Class Start Date": "11/1/2021",
+    "Class End Date": "5/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "GT-VIRT-DMKT-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "4/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UADEL-VIRT-FSF-PT-05-2022-U-LOLC-MTTH",
+    "Class Start Date": "5/30/2022",
+    "Class End Date": "11/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UW-BLV-VIRT-FSF-PT-09-2021-U-C-TTH",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UCB-VIRT-BO-FSF-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UPENN-VIRT-DMKT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/8/2021",
+    "Class End Date": "3/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UCSD-VIRT-DATA-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/10/2021",
+    "Class End Date": "5/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-CYBER-PT-05-2022-U-LOLC-MTTh",
+    "Class Start Date": "5/30/2022",
+    "Class End Date": "11/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "VU-VIRT-CYBER-PT-04-2022-U-LOL-MW",
+    "Class Start Date": "4/25/2022",
+    "Class End Date": "10/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UofU-VIRT-CYBER-12-2021-U-LOL-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-TPM-PT-04-2022-U-LOLC-TTH",
+    "Class Start Date": "4/19/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "SMU-VIRT-PdM-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/31/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-DATA-PT-04-2022-U-B-MW",
+    "Class Start Date": "4/13/2022",
+    "Class End Date": "9/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofA-VIRT-UXUI-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/14/2022",
+    "Class End Date": "9/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "CU-VIRT-CYBER-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/15/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "DU-VIRT-FSF-FT-04-2022-U-LOLC-M-F",
+    "Class Start Date": "4/25/2022",
+    "Class End Date": "7/20/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-FSF-FT-04-2022-U-LOLC-M-F",
+    "Class Start Date": "4/25/2022",
+    "Class End Date": "7/20/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-CYBER-PT-04-2022-U-LOL-MW",
+    "Class Start Date": "4/25/2022",
+    "Class End Date": "10/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-CYBER-PT-09-2021-U-LOL-TTH",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "DU-VIRT-TPM-PT-04-2022-U-LOLC-MW",
+    "Class Start Date": "4/11/2022",
+    "Class End Date": "8/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "UR-VIRT-CYBER-PT-04-2022-U-LOL-TTH",
+    "Class Start Date": "4/12/2022",
+    "Class End Date": "10/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-TPM-PT-04-2022-U-LOLC-MW",
+    "Class Start Date": "4/11/2022",
+    "Class End Date": "8/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "DU-VIRT-FSF-PT-04-2022-U-LOLC-MW",
+    "Class Start Date": "4/11/2022",
+    "Class End Date": "10/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-PdM-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/31/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-BO-FSF-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/8/2021",
+    "Class End Date": "3/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "DU-VIRT-DATA-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/1/2021",
+    "Class End Date": "3/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCR-RIV-VIRT-CYBER-PT-11-2021-U-C-TTH",
+    "Class Start Date": "11/30/2021",
+    "Class End Date": "5/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "EMER-VIRT-DMKT-PT-04-2022-U-LOLC-MW",
+    "Class Start Date": "4/25/2022",
+    "Class End Date": "9/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-DMKT-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/31/2022",
+    "Class End Date": "6/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "WAUS-VIRT-FSF-PT-02-2022-U-LOL-MTTh",
+    "Class Start Date": "2/7/2022",
+    "Class End Date": "8/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "MSU-VIRT-DMKT-PT-10-2021-U-LOL-TTH",
+    "Class Start Date": "10/26/2021",
+    "Class End Date": "3/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UCLA-LA-PdM-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/21/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "UPENN-VIRT-HSFSF-07-2021-U-B-M-F",
+    "Class Start Date": "12/19/2021",
+    "Class End Date": "8/6/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "High School Full Stack Flex"
+  },
+  {
+    "Class Name": "ASU-TEM-VIRT-FIN-PT-12-2021-U-C-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "RUT-VIRT-BO-FSF-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/14/2021",
+    "Class End Date": "4/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MSU-VIRT-BO-FSF-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/23/2021",
+    "Class End Date": "3/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "DU-DEN-VIRT-FSF-PT-08-2021-U-C-MW",
+    "Class Start Date": "8/16/2021",
+    "Class End Date": "2/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UCB-VIRT-DATA-PT-01-2022-U-B-TTH",
+    "Class Start Date": "1/27/2022",
+    "Class End Date": "7/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "DU-VIRT-CYBER-PT-09-2021-U-LOL-MW",
+    "Class Start Date": "9/13/2021",
+    "Class End Date": "3/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UW-VIRT-FSF-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/14/2022",
+    "Class End Date": "8/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UNCC-VIRT-BO-FSF-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/21/2022",
+    "Class End Date": "10/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCI-VIRT-DATA-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/14/2022",
+    "Class End Date": "9/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UCR-VIRT-CYBER-PT-04-2022-U-LOL-TTH",
+    "Class Start Date": "4/26/2022",
+    "Class End Date": "10/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCI-VIRT-DMKT-PT-05-2022-U-LOLC-MW",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "10/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UNH-VIRT-CYBER-PT-04-2022-U-LOL-MW",
+    "Class Start Date": "4/11/2022",
+    "Class End Date": "10/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "KU-VIRT-CYBER-PT-09-2021-U-LOL-TTH",
+    "Class Start Date": "9/14/2021",
+    "Class End Date": "3/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "MIA-VIRT-DATA-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/3/2021",
+    "Class End Date": "4/27/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CONN-VIRT-BO-FSF-PT-01-2022-U-B-TTH",
+    "Class Start Date": "1/13/2022",
+    "Class End Date": "6/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MIA-VIRT-DATA-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/3/2022",
+    "Class End Date": "7/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UBHM-VIRT-DATA-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/22/2022",
+    "Class End Date": "8/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "KU-VIRT-DATA-PT-10-2021-U-B-MW",
+    "Class Start Date": "10/20/2021",
+    "Class End Date": "4/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-PdM-PT-10-2021-U-B-MW",
+    "Class Start Date": "10/20/2021",
+    "Class End Date": "3/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "CU-VIRT-PdM-PT-10-2021-U-B-MW",
+    "Class Start Date": "10/20/2021",
+    "Class End Date": "3/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "UBHM-VIRT-FSF-PT-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/30/2021",
+    "Class End Date": "6/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-CYBER-09-2021-U-LOL-MW",
+    "Class Start Date": "9/13/2021",
+    "Class End Date": "3/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-DMKT-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/15/2021",
+    "Class End Date": "4/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-TPM-PT-05-2022-U-LOLC-TTH",
+    "Class Start Date": "5/10/2022",
+    "Class End Date": "9/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "UofA-VIRT-BO-FSF-PT-10-2021-U-B-MW",
+    "Class Start Date": "10/20/2021",
+    "Class End Date": "4/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "WAUS-VIRT-DATA-PT-12-2021-U-C-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "6/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UCB-VIRT-DATA-PT-12-2021-U-B-MW(B)",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-DATA-PT-12-2021-U-B-MW(A)",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofW-VIRT-DATA-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/8/2021",
+    "Class End Date": "3/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-DATA-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/16/2021",
+    "Class End Date": "6/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-DATA-PT-12-2021-U-B-MW (B)",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-DATA-PT-12-2021-U-B-MW (A)",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-CYBER-12-2021-U-LOL-TTH(A)",
+    "Class Start Date": "12/14/2021",
+    "Class End Date": "6/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-CYBER-12-2021-U-LOL-TTH(B)",
+    "Class Start Date": "12/14/2021",
+    "Class End Date": "6/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "SMU-VIRT-BO-FSF-PT-11-2021-U-B-TTH(A)",
+    "Class Start Date": "11/4/2021",
+    "Class End Date": "4/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "CWRU-VIRT-DATA-PT-10-2021-U-B-MW",
+    "Class Start Date": "10/27/2021",
+    "Class End Date": "4/20/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-BO-FSF-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/16/2021",
+    "Class End Date": "6/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "CU-VIRT-CYBER-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/8/2021",
+    "Class End Date": "5/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-TPM-PT-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/2/2021",
+    "Class End Date": "3/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "UCI-IRV-VIRT-FSF-PT-12-2021-U-C-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UofU-VIRT-BO-FSF-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/1/2021",
+    "Class End Date": "2/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "KU-VIRT-CYBER-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "6/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "DU-VIRT-DMKT-PT-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/2/2021",
+    "Class End Date": "3/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-TPM-PT-10-2021-U-LOLC-MW",
+    "Class Start Date": "10/18/2021",
+    "Class End Date": "3/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "SMU-VIRT-BO-FSF-PT-10-2021-U-B-MW",
+    "Class Start Date": "10/6/2021",
+    "Class End Date": "3/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MSU-VIRT-CYBER-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/31/2022",
+    "Class End Date": "7/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-FSF-FT-01-2022-U-LOL-M-F",
+    "Class Start Date": "1/10/2022",
+    "Class End Date": "4/4/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCI-VIRT-DATA-PT-11-2021-U-C-TTH",
+    "Class Start Date": "11/30/2021",
+    "Class End Date": "5/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "CU-VIRT-PdM-PT-04-2022-U-B-MW",
+    "Class Start Date": "4/6/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-UXUI-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/1/2021",
+    "Class End Date": "5/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "ASU-VIRT-CYBER-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/14/2022",
+    "Class End Date": "9/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UPENN-VIRT-FSF-FT-11-2021-U-LOL-M-F",
+    "Class Start Date": "11/29/2021",
+    "Class End Date": "3/2/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-CYBER-PT-03-2022-U-LOL-MTTh",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "8/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "NU-VIRT-DATA-PT-03-2022-U-LOL-TTH (B)",
+    "Class Start Date": "3/1/2022",
+    "Class End Date": "8/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UTOR-VIRT-BO-FSF-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/10/2022",
+    "Class End Date": "7/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MIA-VIRT-TPM-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "4/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "UCLA-VIRT-FSF-FT-02-2022-U-LOL-M-F",
+    "Class Start Date": "2/14/2022",
+    "Class End Date": "5/9/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "CU-VIRT-BO-FSF-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/16/2022",
+    "Class End Date": "8/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "WAUS-VIRT-CYBER-PT-11-2021-U-LOL-MTTh",
+    "Class Start Date": "11/22/2021",
+    "Class End Date": "5/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-BO-FSF-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/23/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofM-VIRT-BO-FSF-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/29/2021",
+    "Class End Date": "3/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCD-SAC-CYBER-PT-08-2021-U-C-TTH",
+    "Class Start Date": "8/31/2021",
+    "Class End Date": "3/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "UofO-VIRT-CYBER-10-2021-U-LOL-MW",
+    "Class Start Date": "10/25/2021",
+    "Class End Date": "4/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-FIN-PT-04-2022-U-B-MW",
+    "Class Start Date": "4/6/2022",
+    "Class End Date": "9/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-UXUI-PT-04-2022-U-LOL-TTH",
+    "Class Start Date": "4/26/2022",
+    "Class End Date": "10/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "KU-VIRT-BO-FSF-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofM-VIRT-UXUI-PT-12-2021-U-LOL-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "CU-VIRT-TPM-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/1/2022",
+    "Class End Date": "6/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "UTSA-VIRT-BO-FSF-PT-10-2021-U-B-TTH(B)",
+    "Class Start Date": "10/21/2021",
+    "Class End Date": "4/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UTSA-VIRT-BO-FSF-PT-10-2021-U-B-TTH(A)",
+    "Class Start Date": "10/21/2021",
+    "Class End Date": "4/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UNC-VIRT-BO-FSF-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/29/2021",
+    "Class End Date": "3/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "CU-VIRT-DATA-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/7/2021",
+    "Class End Date": "3/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-DATA-PT-10-2021-U-B-MW",
+    "Class Start Date": "10/20/2021",
+    "Class End Date": "4/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-FIN-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-FIN-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/9/2021",
+    "Class End Date": "3/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "DU-VIRT-CYBER-PT-12-2021-U-LOL-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "6/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-DATA-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/10/2021",
+    "Class End Date": "5/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-CYBER-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCLA-VIRT-PdM-PT-01-2022-U-B-TTH",
+    "Class Start Date": "1/27/2022",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "NU-VIRT-DATA-PT-12-2021-U-C-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "6/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UofO-VIRT-UXUI-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/22/2022",
+    "Class End Date": "8/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "NU-CHI-VIRT-FSF-PT-11-2021-U-C-TTH",
+    "Class Start Date": "11/30/2021",
+    "Class End Date": "5/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UTOR-VIRT-UXUI-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "6/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-BO-FSF-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/10/2021",
+    "Class End Date": "5/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "GWU-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "GT-VIRT-ATL-DATA-PT-09-2021-U-C-TTH-B",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "GT-VIRT-ATL-DATA-PT-09-2021-U-C-TTH-A",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "GT-VIRT-ATL-DATA-PT-09-2021-U-C-TTH-C",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "WAUS-VIRT-FSF-PT-11-2021-U-C-MTTh",
+    "Class Start Date": "11/29/2021",
+    "Class End Date": "5/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "GT-VIRT-DATA-PT-12-2021-U-C-TTH (B)",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "GT-VIRT-DATA-PT-12-2021-U-C-TTH (A)",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "5/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UBHM-BRM-FSF-PT-11-2021-U-C-TTH",
+    "Class Start Date": "11/30/2021",
+    "Class End Date": "6/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "GT-ATL-VIRT-FSF-PT-10-2021-U-C-TTH(B)",
+    "Class Start Date": "10/19/2021",
+    "Class End Date": "4/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "GT-ATL-VIRT-FSF-PT-10-2021-U-C-TTH(A)",
+    "Class Start Date": "10/19/2021",
+    "Class End Date": "4/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UCF-VIRT-BO-FSF-PT-10-2021-U-B-MW",
+    "Class Start Date": "10/6/2021",
+    "Class End Date": "3/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "SMU-DAL-VIRT-DATA-PT-12-2021-U-C-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "MONU-VIRT-FIN-11-2021-U-C-MTTh",
+    "Class Start Date": "11/8/2021",
+    "Class End Date": "5/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UTOR-VIRT-BO-FSF-PT-11-2021-U-B-TTH",
+    "Class Start Date": "11/4/2021",
+    "Class End Date": "4/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "VU-VIRT-DMKT-PT-12-2021-U-LOL-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "4/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-FSF-FT-12-2021-U-LOL-M-F",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "3/16/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-BO-FSF-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/3/2021",
+    "Class End Date": "4/27/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UPENN-VIRT-FIN-PT-06-2022-U-LOLC-TTH",
+    "Class Start Date": "6/7/2022",
+    "Class End Date": "11/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UTOR-VIRT-DMKT-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/8/2022",
+    "Class End Date": "6/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-BO-FSF-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/9/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UTSA-VIRT-CYB-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "6/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "DU-DEN-VIRT-FSF-PT-10-2021-U-C-TTH",
+    "Class Start Date": "10/12/2021",
+    "Class End Date": "4/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UTOR-VIRT-BO-FSF-PT-10-2021-U-B-MW",
+    "Class Start Date": "10/6/2021",
+    "Class End Date": "3/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "USYD-VIRT-CYBER-11-2021-U-LOL-MTTH",
+    "Class Start Date": "11/15/2021",
+    "Class End Date": "5/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UofA-VIRT-DATA-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/9/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "PEPP-VIRT-FIN-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/28/2022",
+    "Class End Date": "10/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-TPM-PT-01-2022-U-LOL-TTH",
+    "Class Start Date": "1/11/2022",
+    "Class End Date": "5/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "USYD-VIRT-FSF-PT-02-2022-U-LOL-MTTh",
+    "Class Start Date": "2/14/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "Monash - Class Calendar Single (M/W) Class Cohort (Data)",
+    "Class Start Date": "8/29/2022",
+    "Class End Date": "2/11/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "MTTh (US)",
+    "Class Start Date": "10/17/2022",
+    "Class End Date": "4/17/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "Class Calendar Single (M/W) Class Cohort (FSF)",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "9/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "TTH BLENDED",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "12/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "Class Calendar Single (M/W) Class Cohort (Data)",
+    "Class Start Date": "8/15/2022",
+    "Class End Date": "2/18/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "Class Calendar Single (T/TH) Class Test (Data)",
+    "Class Start Date": "7/5/2022",
+    "Class End Date": "1/3/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "Class Calendar Single (T/TH) Class Test (Cyber)",
+    "Class Start Date": "6/14/2022",
+    "Class End Date": "12/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "18-Week Tech Project Management - TTh",
+    "Class Start Date": "8/9/2022",
+    "Class End Date": "12/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "Product Management - Blended TEST",
+    "Class Start Date": "10/5/2022",
+    "Class End Date": "2/27/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "Class Calendar Single (T/TH/Sa) UX/UI",
+    "Class Start Date": "10/26/2021",
+    "Class End Date": "4/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "US Blended Online TEST (TTh)",
+    "Class Start Date": "4/21/2022",
+    "Class End Date": "10/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UK - T/T/TH TEST",
+    "Class Start Date": "11/23/2021",
+    "Class End Date": "5/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "Sample UX/UI P/T (T/Th)",
+    "Class Start Date": "9/28/2021",
+    "Class End Date": "3/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "Class Calendar Full Time - FT Java",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "6/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "18-Week Digital Marketing - MW",
+    "Class Start Date": "10/3/2022",
+    "Class End Date": "2/22/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "18-Weeks TTH",
+    "Class Start Date": "10/11/2022",
+    "Class End Date": "2/25/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "18-Week Tech Project Management - MW",
+    "Class Start Date": "11/7/2022",
+    "Class End Date": "3/29/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "Sydney - Class Calendar Single (M/W) Class Cohort (Data)",
+    "Class Start Date": "10/11/2021",
+    "Class End Date": "4/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "US Blended Online TEST (MW)",
+    "Class Start Date": "8/3/2022",
+    "Class End Date": "2/6/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "VU-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/1/2021",
+    "Class End Date": "5/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UADEL-VIRT-FSF-PT-02-2022-U-LOL-MTTh",
+    "Class Start Date": "2/28/2022",
+    "Class End Date": "8/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UPENN-PHI-VIRT-DATA-09-2021-U-C-MW",
+    "Class Start Date": "9/13/2021",
+    "Class End Date": "3/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "CWRU-VIRT-BO-FSF-PT-11-2021-U-B-TTH",
+    "Class Start Date": "11/11/2021",
+    "Class End Date": "5/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCB-VIRT-UXUI-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/31/2022",
+    "Class End Date": "7/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UCI-VIRT-UXUI-PT-10-2021-U-LOL-MW",
+    "Class Start Date": "10/25/2021",
+    "Class End Date": "4/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "ESMT-BER-FSF-PT-09-2021-U-C-MW",
+    "Class Start Date": "9/13/2021",
+    "Class End Date": "3/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UCB-VIRT-TPM-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/24/2022",
+    "Class End Date": "6/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "TDM-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "URICH-VIRT-CYBER-PT-10-2021-U-C-MW",
+    "Class Start Date": "10/25/2021",
+    "Class End Date": "4/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "UCI-VIRT-UXUI-PT-01-2022-U-B-TTH",
+    "Class Start Date": "1/27/2022",
+    "Class End Date": "7/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "UX/UI Blended Online"
+  },
+  {
+    "Class Name": "UofU-VIRT-UXUI-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/28/2022",
+    "Class End Date": "8/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-CYBER-PT-10-2021-U-LOL-MW",
+    "Class Start Date": "10/25/2021",
+    "Class End Date": "4/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "GT-GE-CYBER-PT-10-2021-E-C-TWTh",
+    "Class Start Date": "10/26/2021",
+    "Class End Date": "4/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TWTh",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "TDM-VIRT-DATA-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/9/2021",
+    "Class End Date": "3/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UTSA-VIRT-UXUI-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/1/2021",
+    "Class End Date": "5/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-FSF-PT-11-2021-U-C-MTTH",
+    "Class Start Date": "11/15/2021",
+    "Class End Date": "5/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "USYD-VIRT-FIN-PT-12-2021-U-C-TTH",
+    "Class Start Date": "12/14/2021",
+    "Class End Date": "6/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "USC-VIRT-DATA-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "8/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UW-VIRT-FIN-PT-11-2021-U-B-TTH",
+    "Class Start Date": "11/18/2021",
+    "Class End Date": "5/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "MSU-VIRT-BO-FSF-PT-03-2022-U-B-MW-ENTG",
+    "Class Start Date": "3/23/2022",
+    "Class End Date": "9/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "GT-VIRT-CYBER-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/15/2021",
+    "Class End Date": "5/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-DATA-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/23/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "MSU-VIRT-BO-FSF-PT-01-2022-U-B-TTH (B)",
+    "Class Start Date": "1/27/2022",
+    "Class End Date": "7/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MSU-VIRT-BO-FSF-PT-01-2022-U-B-TTH (A)",
+    "Class Start Date": "1/27/2022",
+    "Class End Date": "7/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "WAUS-VIRT-DATA-PT-03-2022-U-LOL-MTTh",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UCB-VIRT-FSF-FT-12-2021-U-LOL-M-F",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "3/16/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UofO-VIRT-BO-FSF-PT-01-2022-U-B-TTH",
+    "Class Start Date": "1/20/2022",
+    "Class End Date": "7/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "GT-VIRT-FSF-FT-03-2022-U-LOL-M-F",
+    "Class Start Date": "3/14/2022",
+    "Class End Date": "6/6/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "GT-VIRT-FSF-PT-04-2022-U-LOLC-MW",
+    "Class Start Date": "4/20/2022",
+    "Class End Date": "10/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-BO-FSF-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/21/2022",
+    "Class End Date": "10/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MIA-VIRT-BO-FSF-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/9/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "CWRU-VIRT-CYBER-PT-06-2022-U-LOLC-MWTh",
+    "Class Start Date": "6/27/2022",
+    "Class End Date": "12/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-FSF-FT-06-2022-U-LOLC-M-F",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "9/7/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-UXUI-PT-06-2022-U-LOLC-MTTH",
+    "Class Start Date": "6/27/2022",
+    "Class End Date": "12/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-BO-FSF-PT-06-2022-U-B-TTH",
+    "Class Start Date": "6/28/2022",
+    "Class End Date": "12/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UPENN-VIRT-CYBER-PT-05-2022-U-LOLC-TTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "11/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "NU-VIRT-FSF-PT-05-2022-U-LOLC-TTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "11/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UMAN-VIRT-FSF-PT-06-2022-U-LOLC-TTH",
+    "Class Start Date": "6/7/2022",
+    "Class End Date": "11/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-CYBER-PT-05-2022-U-LOLC-MTTh",
+    "Class Start Date": "5/30/2022",
+    "Class End Date": "11/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "MIA-VIRT-TPM-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "7/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "UofO-VIRT-CYBER-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/24/2022",
+    "Class End Date": "7/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UBHM-VIRT-FSF-PT-09-2021-U-C-TTH",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "NU-CHI-VIRT-CYBER-09-2021-U-C-TTH (B)",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "NU-CHI-VIRT-CYBER-09-2021-U-C-TTH (A)",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "MSU-VIRT-CYBER-PT-10-2021-U-LOL-TTH",
+    "Class Start Date": "10/5/2021",
+    "Class End Date": "4/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "GT-VIRT-UXUI-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "6/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "MIA-VIRT-BO-FSF-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/1/2021",
+    "Class End Date": "2/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCD-VIRT-CYBER-PT-06-2022-U-LOLC-MWTh",
+    "Class Start Date": "6/27/2022",
+    "Class End Date": "12/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTSA-VIRT-UXUI-PT-06-2022-U-LOLC-MWTH",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "12/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "DU-VIRT-UXUI-PT-05-2022-U-LOLC-MTTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "11/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-TPM-PT-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/16/2021",
+    "Class End Date": "4/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "SMU-VIRT-CYBER-PT-12-2021-U-C-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "6/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "MIA-VIRT-BO-FSF-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "11/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MSU-VIRT-DATA-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/10/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofU-VIRT-CYBER-PT-06-2022-U-LOLC-MWTh",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "12/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "ASU-VIRT-CYBER-PT-05-2022-U-LOLC-MTTh",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "11/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-DATA-PT-11-2021-U-B-TTH",
+    "Class Start Date": "11/18/2021",
+    "Class End Date": "5/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-FSF-FT-12-2021-U-LOL-M-F",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "3/18/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-DATA-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/14/2021",
+    "Class End Date": "4/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-BO-FSF-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/2/2022",
+    "Class End Date": "7/20/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "VU-VIRT-BO-FSF-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/2/2022",
+    "Class End Date": "7/20/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCI-VIRT-FSF-FT-02-2022-U-LOL-M-F",
+    "Class Start Date": "2/7/2022",
+    "Class End Date": "5/2/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "RUT-VIRT-FSF-FT-02-2022-U-LOL-M-F",
+    "Class Start Date": "2/7/2022",
+    "Class End Date": "5/2/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "NU-VIRT-FIN-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/7/2022",
+    "Class End Date": "8/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UNCC-VIRT-CYBER-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/14/2022",
+    "Class End Date": "9/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-CYBER-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/14/2022",
+    "Class End Date": "9/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "SMU-VIRT-DATA-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "CU-VIRT-DMKT-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "7/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-FIN-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/17/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-DATA-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/17/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofO-VIRT-DATA-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/17/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "TDM-VIRT-DATA-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/17/2022",
+    "Class End Date": "9/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-FSF-FT-03-2022-U-LOL-M-F",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "6/13/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UW-VIRT-FSF-FT-03-2022-U-LOL-M-F",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "6/13/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-FSF-FT-03-2022-U-LOL-M-F",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "6/13/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-FSF-FT-03-2022-U-LOL-M-F",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "6/13/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UofM-STP-VIRT-FIN-09-2021-U-C-TTH",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UBHM-VIRT-DATA-PT-10-2021-U-C-TTH",
+    "Class Start Date": "10/19/2021",
+    "Class End Date": "5/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "PEPP-VIRT-DMKT-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/7/2022",
+    "Class End Date": "6/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-FIN-PT-02-2022-U-LOL-MTTh",
+    "Class Start Date": "2/7/2022",
+    "Class End Date": "8/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UCB-VIRT-DMKT-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/1/2022",
+    "Class End Date": "7/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UNCC-VIRT-CYBER-09-2021-U-LOL-MW",
+    "Class Start Date": "9/8/2021",
+    "Class End Date": "3/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "MSU-VIRT-DATA-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/9/2021",
+    "Class End Date": "3/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofW-VIRT-DATA-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/9/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-DMKT-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/8/2022",
+    "Class End Date": "6/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-DMKT-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/8/2022",
+    "Class End Date": "6/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "CWRU-VIRT-BO-FSF-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/9/2022",
+    "Class End Date": "7/27/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCR-VIRT-BO-FSF-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/9/2022",
+    "Class End Date": "7/27/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UW-VIRT-FIN-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/9/2022",
+    "Class End Date": "7/27/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "UMAN-VIRT-FSF-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/27/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UT-VIRT-DATA-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/9/2022",
+    "Class End Date": "7/27/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UNCC-VIRT-DATA-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/9/2021",
+    "Class End Date": "3/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-DATA-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/9/2021",
+    "Class End Date": "3/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-DATA-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/10/2022",
+    "Class End Date": "7/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CARL-VIRT-BO-FSF-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/10/2022",
+    "Class End Date": "7/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "CU-VIRT-DATA-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/10/2022",
+    "Class End Date": "7/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCSD-VIRT-DATA-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/10/2022",
+    "Class End Date": "7/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CU-VIRT-TPM-PT-10-2021-U-LOLC-MW",
+    "Class Start Date": "10/18/2021",
+    "Class End Date": "4/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-BO-FSF-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/10/2022",
+    "Class End Date": "7/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UTSA-SAN-DATA-PT-09-2021-U-C-MW",
+    "Class Start Date": "9/13/2021",
+    "Class End Date": "3/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UCI-IRV-VIRT-CYBER-09-2021-U-C-MW",
+    "Class Start Date": "9/13/2021",
+    "Class End Date": "3/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "UCSD-SD-VIRT-CYBER-PT-09-2021-U-C-MW",
+    "Class Start Date": "9/13/2021",
+    "Class End Date": "3/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "UNCC-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "USC-LA-VIRT-DATA-PT-09-2021-U-C-MW",
+    "Class Start Date": "9/27/2021",
+    "Class End Date": "4/20/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "NFLX-VIRT-UX-PT-01-2022-E-LOL-TTH",
+    "Class Start Date": "1/11/2022",
+    "Class End Date": "4/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Enterprise Netflix UX/UI"
+  },
+  {
+    "Class Name": "GT-VIRT-PdM-PT-01-2022-U-B-MW",
+    "Class Start Date": "1/12/2022",
+    "Class End Date": "5/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-FIN-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/14/2022",
+    "Class End Date": "8/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "SMU-DAL-CYBER-PT-09-2021-U-C-MW",
+    "Class Start Date": "9/13/2021",
+    "Class End Date": "3/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "UofM-VIRT-UXUI-PT-09-2021-U-LOL-MW",
+    "Class Start Date": "9/13/2021",
+    "Class End Date": "3/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "GT-VIRT-UXUI-PT-09-2021-U-LOL-TTH",
+    "Class Start Date": "9/14/2021",
+    "Class End Date": "3/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-UXUI-PT-09-2021-U-LOL-TTH",
+    "Class Start Date": "9/14/2021",
+    "Class End Date": "3/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UNCC-VIRT-FSF-FT-02-2022-U-LOL-M-F",
+    "Class Start Date": "2/14/2022",
+    "Class End Date": "5/9/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-DMKT-PT-02-2022-U-LOL-MTTh",
+    "Class Start Date": "2/14/2022",
+    "Class End Date": "6/27/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-FSF-PT-02-2022-U-LOL-MTTh",
+    "Class Start Date": "2/14/2022",
+    "Class End Date": "8/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCI-VIRT-CYBER-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "9/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCSD-VIRT-CYBER-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "9/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTSA-VIRT-DATA-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "9/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "WUSTL-VIRT-CYBER-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/22/2022",
+    "Class End Date": "9/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "MSU-VIRT-BO-FSF-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/23/2022",
+    "Class End Date": "9/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "NU-VIRT-FSF-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/29/2022",
+    "Class End Date": "9/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "DU-VIRT-CYBER-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/28/2022",
+    "Class End Date": "9/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCI-IRV-VIRT-FSF-PT-09-2021-U-C-TTH",
+    "Class Start Date": "9/14/2021",
+    "Class End Date": "3/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "CONN-VIRT-BO-FSF-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/15/2021",
+    "Class End Date": "3/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofO-VIRT-DATA-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/16/2021",
+    "Class End Date": "3/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CU-VIRT-BO-FSF-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/22/2021",
+    "Class End Date": "3/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "SMU-VIRT-FIN-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "DU-VIRT-FSF-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/15/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-DATA-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/16/2022",
+    "Class End Date": "8/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "BUT-VIRT-BO-FSF-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/17/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UBHM-VIRT-FSF-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/29/2022",
+    "Class End Date": "9/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UW-VIRT-FSF-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/29/2022",
+    "Class End Date": "9/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "RUT-VIRT-DATA-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/31/2022",
+    "Class End Date": "9/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "DU-VIRT-PdM-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/9/2022",
+    "Class End Date": "7/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-DATA-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/16/2021",
+    "Class End Date": "3/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-FIN-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/16/2021",
+    "Class End Date": "3/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "NU-CHI-VIRT-FSF-PT-09-2021-U-C-MW",
+    "Class Start Date": "9/20/2021",
+    "Class End Date": "3/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "RICE-VIRT-UXUI-PT-12-2021-U-LOL-TTHFri",
+    "Class Start Date": "12/14/2021",
+    "Class End Date": "6/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThF",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UR-VIRT-BO-FSF-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/17/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofW-VIRT-BO-FSF-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/17/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "NU-VIRT-FSF-FT-03-2022-U-LOL-M-F",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "6/13/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "NU-VIRT-UXUI-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/23/2022",
+    "Class End Date": "8/20/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "TDM-VIRT-FSF-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/21/2022",
+    "Class End Date": "8/20/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "USYD-SYD-FIN-PT-09-2021-U-C-MTTh",
+    "Class Start Date": "9/27/2021",
+    "Class End Date": "3/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "RICE-VIRT-UXUI-PT-09-2021-U-LOL-MW",
+    "Class Start Date": "9/27/2021",
+    "Class End Date": "3/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "VU-VIRT-BO-FSF-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/30/2021",
+    "Class End Date": "3/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MIA-VIRT-FIN-PT-08-2021-U-C-TTH",
+    "Class Start Date": "8/24/2021",
+    "Class End Date": "2/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "2021 test",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "3/16/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "NU-VIRT-UXUI-PT-09-2021-U-LOL-TTH",
+    "Class Start Date": "9/14/2021",
+    "Class End Date": "3/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "NFLX-VIRT-JAVA-F-PT-01-2022-E-LOLC-TTH",
+    "Class Start Date": "1/11/2022",
+    "Class End Date": "5/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Enterprise Netflix Java Foundations"
+  },
+  {
+    "Class Name": "NFLX-VIRT-DATA-F-PT-01-2022-E-LOLC-TTH",
+    "Class Start Date": "1/11/2022",
+    "Class End Date": "5/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Enterprise Netflix Data Foundations"
+  },
+  {
+    "Class Name": "UCI-VIRT-DMKT-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/22/2022",
+    "Class End Date": "6/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-DMKT-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/22/2022",
+    "Class End Date": "6/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-UXUI-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/22/2022",
+    "Class End Date": "8/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "CARL-VIRT-DATA-PT-08-2021-U-C-MW",
+    "Class Start Date": "8/9/2021",
+    "Class End Date": "2/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "GWU-VIRT-FIN-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/9/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "UNH-POR-VIRT-FSF-PT-12-2021-U-C-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UR-VIRT-CYBER-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/22/2022",
+    "Class End Date": "8/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "RUT-VIRT-BO-FSF-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/23/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCLA-VIRT-BO-FSF-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/23/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UNC-VIRT-DATA-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/23/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CWRU-VIRT-DATA-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/24/2022",
+    "Class End Date": "8/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCI-VIRT-DATA-PT-09-2021-U-C-MW",
+    "Class Start Date": "9/1/2021",
+    "Class End Date": "3/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "PEPP-VIRT-DMKT-PT-10-2021-U-LOL-MW",
+    "Class Start Date": "10/11/2021",
+    "Class End Date": "2/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "NU-CHI-VIRT-DATA-PT-10-2021-U-C-TTH",
+    "Class Start Date": "10/12/2021",
+    "Class End Date": "4/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "MONU-VIRT-UXUI-PT-02-2022-U-LOL-MTTH",
+    "Class Start Date": "2/28/2022",
+    "Class End Date": "8/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "USYD-VIRT-FIN-PT-03-2022-U-LOL-MTTH",
+    "Class Start Date": "3/14/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "GT-VIRT-DATA-PT-03-2022-U-LOL-MW (B)",
+    "Class Start Date": "3/9/2022",
+    "Class End Date": "9/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "GT-VIRT-DATA-PT-03-2022-U-LOL-MW (A)",
+    "Class Start Date": "3/9/2022",
+    "Class End Date": "9/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UCSD-VIRT-FSF-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/14/2022",
+    "Class End Date": "9/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCSD-VIRT-FSF-FT-03-2022-U-LOL-M-F",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "6/13/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UPENN-VIRT-FSF-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/28/2022",
+    "Class End Date": "8/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "ASU-VIRT-FIN-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/1/2022",
+    "Class End Date": "8/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "MIA-VIRT-FIN-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/1/2022",
+    "Class End Date": "8/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UofA-VIRT-DATA-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/9/2022",
+    "Class End Date": "8/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "NU-CHI-VIRT-DATA-PT-08-2021-U-C-MW",
+    "Class Start Date": "8/16/2021",
+    "Class End Date": "2/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "NU-CHI-VIRT-DATA-PT-08-2021-U-C-TTH",
+    "Class Start Date": "8/17/2021",
+    "Class End Date": "2/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UT-MCC-VIRT-DATA-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/14/2021",
+    "Class End Date": "4/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "VU-VIRT-CYBER-PT-10-2021-U-LOL-MW",
+    "Class Start Date": "10/18/2021",
+    "Class End Date": "4/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "WUSTL-VIRT-CYBER-12-2021-U-LOL-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "RUT-VIRT-DATA-PT-01-2022-U-B-MW",
+    "Class Start Date": "1/19/2022",
+    "Class End Date": "7/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-BO-FSF-PT-01-2022-U-B-TTH",
+    "Class Start Date": "1/20/2022",
+    "Class End Date": "7/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "KU-VIRT-DATA-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/24/2022",
+    "Class End Date": "9/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "MIA-VIRT-BO-FSF-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/2/2022",
+    "Class End Date": "8/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofU-VIRT-BO-FSF-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/2/2022",
+    "Class End Date": "8/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UR-VIRT-DATA-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/3/2022",
+    "Class End Date": "8/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofA-VIRT-FSF-FT-03-2022-U-LOL-M-F",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "5/26/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UPENN-VIRT-FSF-FT-03-2022-U-LOL-M-F",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "5/27/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UPENN-PHI-VIRT-FSF-PT-08-2021-U-C-MW",
+    "Class Start Date": "8/23/2021",
+    "Class End Date": "2/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "NU-CHI-VIRT-FIN-PT-10-2021-U-C-TTH",
+    "Class Start Date": "10/19/2021",
+    "Class End Date": "4/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "MONU-VIRT-CYBER-PT-08-2021-U-C-MW",
+    "Class Start Date": "8/23/2021",
+    "Class End Date": "2/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "MONU-VIRT-UXUI-PT-08-2021-U-C-MTTh",
+    "Class Start Date": "8/30/2021",
+    "Class End Date": "2/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "UX/UI"
+  },
+  {
+    "Class Name": "DU-VIRT-CYBER-PT-10-2021-U-LOL-TTH",
+    "Class Start Date": "10/19/2021",
+    "Class End Date": "4/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "RUT-VIRT-FIN-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "8/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "VU-VIRT-DMKT-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "7/20/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-UXUI-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "8/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-CYBER-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "CU-VIRT-UXUI-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UTSA-VIRT-UXUI-PT-08-2021-U-LOL-TTH",
+    "Class Start Date": "8/24/2021",
+    "Class End Date": "2/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UofU-VIRT-UXUI-PT-08-2021-U-LOL-TTH",
+    "Class Start Date": "8/24/2021",
+    "Class End Date": "2/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-CYBER-PT-08-2021-U-LOL-TTH",
+    "Class Start Date": "8/31/2021",
+    "Class End Date": "3/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UPENN-PHI-VIRT-FIN-PT-09-2021-U-C-TTH",
+    "Class Start Date": "9/21/2021",
+    "Class End Date": "3/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "NU-VIRT-FSF-PT-01-2022-U-LOL-TTH",
+    "Class Start Date": "1/25/2022",
+    "Class End Date": "7/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UofU-VIRT-CYBER-PT-10-2021-U-LOL-TTH",
+    "Class Start Date": "10/19/2021",
+    "Class End Date": "4/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-CYBER-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "NU-VIRT-CYBER-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-CYBER-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UofU-VIRT-CYBER-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-CYBER-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-FIN-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UofA-VIRT-UXUI-PT-08-2021-U-LOL-TTH",
+    "Class Start Date": "8/31/2021",
+    "Class End Date": "3/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-UXUI-PT-08-2021-U-LOL-TTH",
+    "Class Start Date": "8/31/2021",
+    "Class End Date": "3/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "CU-VIRT-UXUI-PT-08-2021-U-LOL-TTH",
+    "Class Start Date": "8/31/2021",
+    "Class End Date": "3/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UCSD-VIRT-FSF-PT-09-2021-U-C-MW",
+    "Class Start Date": "9/1/2021",
+    "Class End Date": "3/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "EMER-VIRT-DATA-PT-09-2021-U-C-MW",
+    "Class Start Date": "9/1/2021",
+    "Class End Date": "3/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UNH-POR-VIRT-FSF-PT-09-2021-U-C-TTH",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "WUSTL-VIRT-BO-FSF-PT-01-2022-U-B-MW",
+    "Class Start Date": "1/26/2022",
+    "Class End Date": "7/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UPENN-VIRT-FIN-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/31/2022",
+    "Class End Date": "8/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UNCC-VIRT-DATA-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/10/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CU-VIRT-FIN-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/10/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-FIN-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/10/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "KU-VIRT-BO-FSF-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/10/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "KU-VIRT-CYBER-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTSA-VIRT-CYBER-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UNH-VIRT-FSF-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "DU-VIRT-DATA-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/16/2022",
+    "Class End Date": "8/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CONN-VIRT-BO-FSF-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/16/2022",
+    "Class End Date": "8/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UNCC-VIRT-FIN-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/17/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "VU-VIRT-DATA-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/2/2021",
+    "Class End Date": "2/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofA-VIRT-BO-FSF-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/2/2021",
+    "Class End Date": "2/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "WAUS-PERTH-DATA-PT-09-2021-U-C-MTTh",
+    "Class Start Date": "9/6/2021",
+    "Class End Date": "3/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "SMU-DAL-DATA-PT-09-2021-U-C-TTH",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UT-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CONN-VIRT-CYBER-PT-05-2022-U-LOLC-MTTh",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "11/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-DMKT-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "4/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-FSF-FT-01-2022-U-LOL-M-F",
+    "Class Start Date": "1/18/2022",
+    "Class End Date": "4/12/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCSD-VIRT-CYBER-PT-12-2021-U-C-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "5/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "CU-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-FIN-PT-11-2021-U-C-TTH",
+    "Class Start Date": "11/2/2021",
+    "Class End Date": "5/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UTOR-VIRT-BO-FSF-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/9/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "CONN-VIRT-BO-FSF-PT-11-2021-U-B-TTH",
+    "Class Start Date": "11/11/2021",
+    "Class End Date": "5/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UTOR-VIRT-DATA-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/21/2021",
+    "Class End Date": "4/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-UXUI-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/24/2022",
+    "Class End Date": "7/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "MSU-VIRT-DMKT-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/24/2022",
+    "Class End Date": "6/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "BUT-VIRT-BO-FSF-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/17/2021",
+    "Class End Date": "5/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofU-VIRT-UXUI-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/15/2021",
+    "Class End Date": "5/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-CYBER-PT-11-2021-U-C-MTTh",
+    "Class Start Date": "11/29/2021",
+    "Class End Date": "5/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "UNCC-VIRT-BO-FSF-PT-01-2022-U-B-MW",
+    "Class Start Date": "1/19/2022",
+    "Class End Date": "7/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UW-BLV-VIRT-FSF-PT-10-2021-U-C-MW",
+    "Class Start Date": "10/25/2021",
+    "Class End Date": "4/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "WAUS-VIRT-CYBER-PT-02-2022-U-LOL-MTTH",
+    "Class Start Date": "2/21/2022",
+    "Class End Date": "8/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "CU-VIRT-FSF-FT-01-2022-U-LOL-M-F",
+    "Class Start Date": "1/10/2022",
+    "Class End Date": "4/5/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "CU-VIRT-BO-FSF-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/2/2021",
+    "Class End Date": "5/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "ASU-VIRT-CYBER-PT-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/30/2021",
+    "Class End Date": "5/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-BO-FSF-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/9/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCD-VIRT-DATA-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/2/2022",
+    "Class End Date": "8/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-BO-FSF-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/10/2022",
+    "Class End Date": "7/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UPENN-VIRT-FSF-PT-11-2021-U-C-TTH",
+    "Class Start Date": "11/16/2021",
+    "Class End Date": "5/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UofA-VIRT-DATA-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/8/2021",
+    "Class End Date": "3/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UNCC-VIRT-DATA-PT-06-2022-U-B-MW",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "11/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "RUT-VIRT-FIN-PT-06-2022-U-LOLC-MWTH",
+    "Class Start Date": "6/27/2022",
+    "Class End Date": "12/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "CU-VIRT-FIN-PT-08-2022-U-B-TTH",
+    "Class Start Date": "8/23/2022",
+    "Class End Date": "2/14/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "CU-VIRT-FIN-PT-06-2022-U-B-TTH",
+    "Class Start Date": "6/14/2022",
+    "Class End Date": "11/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "DU-VIRT-UXUI-PT-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/9/2021",
+    "Class End Date": "5/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UofO-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "WUSTL-VIRT-DATA-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/24/2022",
+    "Class End Date": "8/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCSD-SD-VIRT-FSF-PT-11-2021-U-C-TTH",
+    "Class Start Date": "11/30/2021",
+    "Class End Date": "5/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UofU-VIRT-CYBER-08-2021-U-LOL-TTH",
+    "Class Start Date": "8/31/2021",
+    "Class End Date": "3/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "DU-VIRT-TPM-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/8/2021",
+    "Class End Date": "4/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "MIA-VIRT-FIN-PT-11-2021-U-C-MW",
+    "Class Start Date": "11/29/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "GWU-VIRT-TPM-PT-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/16/2021",
+    "Class End Date": "4/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "DU-VIRT-FSF-FT-01-2022-U-LOL-M-F",
+    "Class Start Date": "1/31/2022",
+    "Class End Date": "4/25/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCI-VIRT-UXUI-PT-04-2022-U-B-MW",
+    "Class Start Date": "4/27/2022",
+    "Class End Date": "10/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "UX/UI Blended Online"
+  },
+  {
+    "Class Name": "CWRU-VIRT-DATA-PT-04-2022-U-B-MW",
+    "Class Start Date": "4/27/2022",
+    "Class End Date": "10/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-BO-FSF-PT-04-2022-U-B-MW",
+    "Class Start Date": "4/27/2022",
+    "Class End Date": "10/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UTA-VIRT-BO-FSF-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/28/2022",
+    "Class End Date": "10/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofO-VIRT-BO-FSF-PT-04-2022-U-B-MW",
+    "Class Start Date": "4/27/2022",
+    "Class End Date": "10/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofA-VIRT-FSF-FT-11-2021-U-LOL-M-F",
+    "Class Start Date": "11/29/2021",
+    "Class End Date": "3/2/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "BUT-VIRT-DATA-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/16/2021",
+    "Class End Date": "3/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-DATA-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/17/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "RUT-VIRT-BO-FSF-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/28/2022",
+    "Class End Date": "10/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCI-IRV-VIRT-CYBER-12-2021-U-C-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "5/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "UofU-VIRT-BO-FSF-PT-01-2022-U-B-TTH",
+    "Class Start Date": "1/13/2022",
+    "Class End Date": "6/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UPENN-VIRT-TPM-PT-10-2021-U-LOL-TTH",
+    "Class Start Date": "10/26/2021",
+    "Class End Date": "3/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-FSF-FT-12-2021-U-LOL-M-F",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "3/9/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "NU-VIRT-CYBER-PT-12-2021-U-C-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "ASU-VIRT-DMKT-PT-10-2021-U-LOL-TTH",
+    "Class Start Date": "10/26/2021",
+    "Class End Date": "3/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "TDM-MXC-VIRT-FSF-PT-10-2021-U-C-TTH",
+    "Class Start Date": "10/26/2021",
+    "Class End Date": "5/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UCLA-VIRT-CYBER-PT-10-2021-U-C-TTH",
+    "Class Start Date": "10/26/2021",
+    "Class End Date": "4/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "UCD-VIRT-DATA-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "11/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "VU-VIRT-DATA-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "11/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-DATA-PT-06-2022-U-B-TTH",
+    "Class Start Date": "6/14/2022",
+    "Class End Date": "11/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-DATA-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "11/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-DATA-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/28/2022",
+    "Class End Date": "10/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "GT-VIRT-PdM-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/21/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "WUSTL-VIRT-BO-FSF-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/28/2022",
+    "Class End Date": "10/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "USYD-VIRT-FIN-PT-06-2022-U-LOLC-MTTH",
+    "Class Start Date": "6/14/2022",
+    "Class End Date": "11/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UBHM-VIRT-DATA-PT-05-2022-U-LOL-TTH",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "11/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "USYD-VIRT-CYBER-PT-02-2022-U-LOL-MTTH",
+    "Class Start Date": "2/28/2022",
+    "Class End Date": "8/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UT-VIRT-UXUI-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/8/2022",
+    "Class End Date": "7/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-DATA-PT-02-2022-U-LOL-MTTh",
+    "Class Start Date": "2/1/2022",
+    "Class End Date": "7/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "MONU-VIRT-UXUI-PT-05-2022-U-LOL-MTTh",
+    "Class Start Date": "5/16/2022",
+    "Class End Date": "10/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "SMU-VIRT-CYBER-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "9/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTSA-VIRT-CYBER-PT-05-2022-U-LOL-MW",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "11/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UofA-VIRT-FSF-PT-04-2022-U-LOLC-MW",
+    "Class Start Date": "4/18/2022",
+    "Class End Date": "10/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "VU-VIRT-DATA-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/3/2022",
+    "Class End Date": "8/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "GT-ATL-VIRT-FSF-PT-12-2021-U-C-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "6/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "WAUS-VIRT-DATA-PT-06-2022-U-LOLC-MTTH",
+    "Class Start Date": "6/27/2022",
+    "Class End Date": "12/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "ASU-VIRT-FIN-PT-07-2022-U-LOLC-MWTh",
+    "Class Start Date": "7/11/2022",
+    "Class End Date": "1/5/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UR-VIRT-DATA-PT-06-2022-U-B-MW",
+    "Class Start Date": "6/27/2022",
+    "Class End Date": "12/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "WUSTL-VIRT-CYBER-09-2021-U-LOL-TTH",
+    "Class Start Date": "9/7/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "ASU-VIRT-CYBER-PT-08-2021-U-LOL-MW",
+    "Class Start Date": "8/30/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "KU-VIRT-DMKT-PT-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/9/2021",
+    "Class End Date": "3/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "CWRU-VIRT-CYBER-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/1/2022",
+    "Class End Date": "8/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "SMU-VIRT-BO-FSF-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/17/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UPENN-VIRT-CYBER-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/28/2022",
+    "Class End Date": "8/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "SMU-VIRT-FSF-FT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/22/2022",
+    "Class End Date": "5/16/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UPENN-VIRT-DATA-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/21/2022",
+    "Class End Date": "9/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UCR-VIRT-BO-FSF-PT-11-2021-U-B-TTH",
+    "Class Start Date": "11/4/2021",
+    "Class End Date": "4/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCB-VIRT-UXUI-PT-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/9/2021",
+    "Class End Date": "5/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-DMKT-PT-01-2022-U-LOL-TTH",
+    "Class Start Date": "1/25/2022",
+    "Class End Date": "5/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UofO-VIRT-UXUI-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/8/2021",
+    "Class End Date": "5/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-CYBER-09-2021-U-LOL-TTH",
+    "Class Start Date": "9/14/2021",
+    "Class End Date": "3/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UT-VIRT-DATA-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/14/2022",
+    "Class End Date": "9/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-DMKT-PT-04-2022-U-LOLC-TTH",
+    "Class Start Date": "4/19/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "ASU-VIRT-DMKT-PT-04-2022-U-LOLC-TTH",
+    "Class Start Date": "4/19/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-UXUI-PT-11-2021-U-C-MTTH",
+    "Class Start Date": "11/22/2021",
+    "Class End Date": "5/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "UX/UI"
+  },
+  {
+    "Class Name": "MSU-VIRT-DMKT-PT-04-2022-U-LOLC-TTH",
+    "Class Start Date": "4/19/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UNCC-VIRT-CYBER-12-2021-U-LOL-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "5/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-BO-FSF-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/10/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofA-VIRT-BO-FSF-PT-01-2022-U-B-MW",
+    "Class Start Date": "1/19/2022",
+    "Class End Date": "7/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UPENN-VIRT-CYBER-PT-08-2021-U-LOL-MW",
+    "Class Start Date": "8/18/2021",
+    "Class End Date": "2/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "CARL-VIRT-DATA-PT-11-2021-U-B-TTH",
+    "Class Start Date": "11/4/2021",
+    "Class End Date": "4/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CU-VIRT-PdM-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/3/2022",
+    "Class End Date": "6/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "DU-VIRT-PdM-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "10/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "VU-VIRT-DMKT-PT-05-2022-U-LOLC-MTTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "10/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "SMU-VIRT-BO-FSF-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/19/2022",
+    "Class End Date": "11/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "DU-VIRT-TPM-PT-06-2022-U-LOLC-TTH",
+    "Class Start Date": "6/7/2022",
+    "Class End Date": "10/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "GT-VIRT-DMKT-PT-06-2022-U-LOLC-MWTH",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "10/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-BO-FSF-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/9/2022",
+    "Class End Date": "8/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UPENN-VIRT-DATA-PT-12-2021-U-C-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "5/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UCB-VIRT-BO-FSF-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/21/2021",
+    "Class End Date": "4/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "CU-VIRT-FIN-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/9/2021",
+    "Class End Date": "3/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-FIN-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-DMKT-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "4/23/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-DMKT-PT-05-2022-U-LOL-MW",
+    "Class Start Date": "5/2/2022",
+    "Class End Date": "9/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "GT-VIRT-DMKT-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "7/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "GT-VIRT-CYBER-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/15/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "PEPP-VIRT-FIN-PT-01-2022-U-B-MW",
+    "Class Start Date": "1/19/2022",
+    "Class End Date": "7/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-CYBER-PT-12-2021-U-LOL-M-W",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-DMKT-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/15/2021",
+    "Class End Date": "4/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "RUT-VIRT-FIN-PT-11-2021-U-C-TTH",
+    "Class Start Date": "11/16/2021",
+    "Class End Date": "5/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "DU-VIRT-TPM-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/1/2022",
+    "Class End Date": "6/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "WUSTL-VIRT-DATA-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/10/2021",
+    "Class End Date": "5/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-CYBER-12-2021-U-LOL-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "6/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "CU-VIRT-TPM-PT-04-2022-U-LOLC-MW",
+    "Class Start Date": "4/4/2022",
+    "Class End Date": "8/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "BUT-VIRT-DATA-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/24/2022",
+    "Class End Date": "9/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CU-VIRT-HS-FSF-FT-07-2022-U-LOLC-M-F",
+    "Class Start Date": "7/25/2022",
+    "Class End Date": "8/12/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "High School Full Stack Flex"
+  },
+  {
+    "Class Name": "UTA-VIRT-UXUI-PT-10-2021-U-LOL-TTH",
+    "Class Start Date": "10/19/2021",
+    "Class End Date": "4/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-TPM-PT-02-2022-U-LOL-MW",
+    "Class Start Date": "2/14/2022",
+    "Class End Date": "6/27/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "PEPP-VIRT-FIN-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/14/2021",
+    "Class End Date": "4/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "CU-VIRT-UXUI-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/29/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UCLA-VIRT-PdM-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/17/2021",
+    "Class End Date": "3/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-DMKT-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/29/2021",
+    "Class End Date": "4/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-DMKT-PT-10-2021-U-LOL-TTH",
+    "Class Start Date": "10/19/2021",
+    "Class End Date": "3/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UofA-VIRT-FSF-FT-05-2022-U-LOLC-M-F",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "8/24/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "GT-VIRT-FSF-FT-06-2022-U-LOLC-M-F",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "9/7/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-UXUI-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-DMKT-PT-05-2022-U-LOLC-MTTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "10/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-DMKT-PT-05-2022-U-LOL-MTTh",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "9/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "USYD-VIRT-FSF-PT-05-2022-U-LOLC-MTTh",
+    "Class Start Date": "5/9/2022",
+    "Class End Date": "10/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-DATA-PT-01-2022-U-B-TTH",
+    "Class Start Date": "1/20/2022",
+    "Class End Date": "7/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCI-VIRT-FSF-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "DU-VIRT-DATA-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/2/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UMAN-MAN-FSF-PT-10-2021-U-C-TTH",
+    "Class Start Date": "10/12/2021",
+    "Class End Date": "5/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "CU-VIRT-DMKT-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "4/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-BO-FSF-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UNCC-VIRT-FIN-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/17/2021",
+    "Class End Date": "5/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "UTA-AUS-FSF-PT-03-2022-U-C-MW",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "8/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UCB-VIRT-DATA-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/30/2022",
+    "Class End Date": "9/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "BUT-VIRT-CYBER-PT-03-2022-U-LOL-",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UofW-VIRT-DATA-PT-02-2022-U-B-MW",
+    "Class Start Date": "2/23/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CU-VIRT-HS-FSF-FT-06-2022-U-LOLC-M-F",
+    "Class Start Date": "6/28/2022",
+    "Class End Date": "7/19/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "High School Full Stack Flex"
+  },
+  {
+    "Class Name": "UTOR-VIRT-DMKT-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/15/2021",
+    "Class End Date": "4/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-CYBER-PT-12-2021-U-LOL-MW(B)",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-CYBER-PT-12-2021-U-LOL-MW(A)",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-CYBER-PT-06-2022-U-LOLC-MWTh",
+    "Class Start Date": "6/27/2022",
+    "Class End Date": "12/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-DMKT-PT-10-2021-U-LOL-MW",
+    "Class Start Date": "10/18/2021",
+    "Class End Date": "3/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "KU-VIRT-BO-FSF-PT-09-2021-U-B-TTH",
+    "Class Start Date": "9/9/2021",
+    "Class End Date": "3/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UTA-VIRT-PdM-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/3/2022",
+    "Class End Date": "6/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-DATA-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/14/2021",
+    "Class End Date": "4/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-CYBER-PT-12-2021-U-C-M-W",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "UCF-VIRT-DMKT-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/24/2022",
+    "Class End Date": "6/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UCB-BER-FSF-PT-04-2022-U-C-TTH",
+    "Class Start Date": "4/19/2022",
+    "Class End Date": "10/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "NU-VIRT-FIN-PT-06-2022-U-LOLC-TTH",
+    "Class Start Date": "6/7/2022",
+    "Class End Date": "11/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "TDM-VIRT-FSF-PT-06-2022-U-LOLC-MWTH",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "11/28/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCLA-VIRT-FSF-PT-04-2022-U-LOLC-TTH",
+    "Class Start Date": "4/19/2022",
+    "Class End Date": "10/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UT-VIRT-DMKT-PT-05-2022-U-LOLC-MW",
+    "Class Start Date": "5/16/2022",
+    "Class End Date": "10/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "CU-VIRT-CYBER-PT-05-2022-U-LOLC-MW",
+    "Class Start Date": "5/16/2022",
+    "Class End Date": "11/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "RICE-HOU-CYBER-PT-11-2021-U-C-TTH",
+    "Class Start Date": "11/9/2021",
+    "Class End Date": "5/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity"
+  },
+  {
+    "Class Name": "UofA-VIRT-DATA-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/26/2022",
+    "Class End Date": "11/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofO-VIRT-UXUI-PT-05-2022-U-LOL-MW",
+    "Class Start Date": "5/16/2022",
+    "Class End Date": "11/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UW-VIRT-FSF-PT-05-2022-U-LOLC-MW",
+    "Class Start Date": "5/16/2022",
+    "Class End Date": "11/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "GT-VIRT-DATA-PT-05-2022-U-LOLC-MTTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "11/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UofW-VIRT-DATA-PT-06-2022-U-B-TTH",
+    "Class Start Date": "6/28/2022",
+    "Class End Date": "12/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-FIN-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "11/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "KU-VIRT-TPM-PT-09-2022-U-LOLC-MTTH",
+    "Class Start Date": "9/6/2022",
+    "Class End Date": "1/24/2023",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "UofO-VIRT-BO-FSF-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/28/2021",
+    "Class End Date": "4/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UTA-VIRT-BO-FSF-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/28/2021",
+    "Class End Date": "4/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "WUSTL-VIRT-BO-FSF-10-2021-U-B-TTH",
+    "Class Start Date": "10/28/2021",
+    "Class End Date": "4/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UNC-VIRT-DMKT-PT-05-2022-U-LOLC-MTTH",
+    "Class Start Date": "5/31/2022",
+    "Class End Date": "10/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "VU-VIRT-BO-FSF-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/1/2021",
+    "Class End Date": "5/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UTSA-VIRT-BO-FSF-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/21/2022",
+    "Class End Date": "10/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "CWRU-VIRT-BO-FSF-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/12/2022",
+    "Class End Date": "10/27/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UT-VIRT-CYBER-PT-05-2022-U-LOLC-MW",
+    "Class Start Date": "5/16/2022",
+    "Class End Date": "11/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-BO-FSF-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/11/2022",
+    "Class End Date": "10/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UNCC-VIRT-FSF-FT-05-2022-U-LOLC-M-F",
+    "Class Start Date": "5/11/2022",
+    "Class End Date": "8/5/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCLA-VIRT-FSF-FT-05-2022-U-LOLC-M-F",
+    "Class Start Date": "5/16/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCLA-VIRT-BO-FSF-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/7/2021",
+    "Class End Date": "3/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "CU-VIRT-FSF-FT-05-2022-U-LOLC-M-F",
+    "Class Start Date": "5/2/2022",
+    "Class End Date": "7/27/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UofU-VIRT-FSF-PT-04-2022-U-LOLC-TTH",
+    "Class Start Date": "4/12/2022",
+    "Class End Date": "10/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "NU-VIRT-DATA-PT-04-2022-U-LOL-MW (B)",
+    "Class Start Date": "4/18/2022",
+    "Class End Date": "10/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "NU-VIRT-DATA-PT-04-2022-U-LOL-MW (A)",
+    "Class Start Date": "4/18/2022",
+    "Class End Date": "10/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UADEL-VIRT-CYBER-PT-05-2022-U-LOLC-MTTh",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "11/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTOR-VIRT-FSF-FT-05-2022-U-LOLC-M-F",
+    "Class Start Date": "5/9/2022",
+    "Class End Date": "8/3/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCR-VIRT-FSF-PT-05-2022-U-LOLC-TTH",
+    "Class Start Date": "5/10/2022",
+    "Class End Date": "10/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "RUT-VIRT-FSF-FT-05-2022-U-LOLC-M-F",
+    "Class Start Date": "5/9/2022",
+    "Class End Date": "8/3/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UTOR-TOR-FSF-PT-05-2022-U-C-TTH",
+    "Class Start Date": "5/10/2022",
+    "Class End Date": "11/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "RICE-VIRT-CYBER-PT-05-2022-U-LOLC-TTH",
+    "Class Start Date": "5/10/2022",
+    "Class End Date": "10/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "GWU-VIRT-DMKT-PT-05-2022-U-LOLC-MW",
+    "Class Start Date": "5/9/2022",
+    "Class End Date": "9/26/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "DU-VIRT-DMKT-PT-05-2022-U-LOLC-TTH",
+    "Class Start Date": "5/10/2022",
+    "Class End Date": "9/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UCI-VIRT-FSF-FT-05-2022-U-LOLC-M-F",
+    "Class Start Date": "5/9/2022",
+    "Class End Date": "8/3/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UofU-VIRT-UXUI-PT-05-2022-U-LOL-MW",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "11/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "CARL-VIRT-DATA-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/26/2022",
+    "Class End Date": "11/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-UXUI-PT-05-2022-U-LOL-MW",
+    "Class Start Date": "5/16/2022",
+    "Class End Date": "11/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "ESMT-VIRT-FSF-PT-04-2022-U-LOLC-TTH",
+    "Class Start Date": "4/19/2022",
+    "Class End Date": "10/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "MIA-VIRT-DATA-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/4/2022",
+    "Class End Date": "10/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UT-VIRT-UXUI-PT-05-2022-U-LOL-TTH",
+    "Class Start Date": "5/3/2022",
+    "Class End Date": "10/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-TPM-PT-05-2022-U-LOLC-TTH",
+    "Class Start Date": "5/3/2022",
+    "Class End Date": "9/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-DATA-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/4/2022",
+    "Class End Date": "10/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UTSA-VIRT-DATA-PT-12-2021-U-C-TTH",
+    "Class Start Date": "12/14/2021",
+    "Class End Date": "6/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UCB-VIRT-DATA-PT-10-2021-U-B-TTH (A)",
+    "Class Start Date": "10/14/2021",
+    "Class End Date": "4/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-DATA-PT-10-2021-U-B-TTH (B)",
+    "Class Start Date": "10/14/2021",
+    "Class End Date": "4/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-CYBER-PT-06-2022-U-LOLC-MWTh",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "12/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "SMU-DAL-FSF-PT-05-2022-U-C-TTHS",
+    "Class Start Date": "5/17/2022",
+    "Class End Date": "11/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "SMU-VIRT-FSF-FT-08-2022-U-LOLC-M-F",
+    "Class Start Date": "8/22/2022",
+    "Class End Date": "11/14/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-CYBER-PT-03-2022-U-LOL-TTH(A)",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-CYBER-PT-03-2022-U-LOL-TTH(B)",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "WUSTL-VIRT-DATA-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/25/2022",
+    "Class End Date": "11/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCLA-VIRT-BO-FSF-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "RUT-VIRT-DATA-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/25/2022",
+    "Class End Date": "11/9/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UBHM-BRM-DATA-PT-05-2022-U-C-TTH",
+    "Class Start Date": "5/24/2022",
+    "Class End Date": "11/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UofM-VIRT-UXUI-PT-03-2022-U-LOL-ENTG-MW",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "8/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-UXUI-PT-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/16/2021",
+    "Class End Date": "5/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "SMU-COG-ENT-FT-02-2022-E-LOL-M-F",
+    "Class Start Date": "2/7/2022",
+    "Class End Date": "3/11/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Enterprise Cognizant Java React Native"
+  },
+  {
+    "Class Name": "CU-VIRT-FIN-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "UW-BLV-VIRT-FSF-PT-12-2021-U-C-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "5/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UofM-VIRT-BO-FSF-PT-11-2021-U-B-TTH",
+    "Class Start Date": "11/11/2021",
+    "Class End Date": "5/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MIA-VIRT-TPM-PT-06-2022-U-LOLC-MWTH",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "10/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWTh",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "(B)OSU-VIRT-BO-FSF-PT-10-2021-U-B-MW",
+    "Class Start Date": "10/20/2021",
+    "Class End Date": "4/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "OSU-VIRT-BO-FSF-PT-10-2021-U-B -MW(A)",
+    "Class Start Date": "10/20/2021",
+    "Class End Date": "4/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCF-VIRT-DMKT-PT-10-2021-U-LOL-TTH",
+    "Class Start Date": "10/26/2021",
+    "Class End Date": "3/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UR-VIRT-BO-FSF-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/17/2021",
+    "Class End Date": "5/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "ASU-VIRT-DMKT-PT-01-2022-U-LOL-MW",
+    "Class Start Date": "1/31/2022",
+    "Class End Date": "6/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "RUT-VIRT-BO-FSF-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/15/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofU-VIRT-BO-FSF-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/14/2021",
+    "Class End Date": "4/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofA-VIRT-UXUI-PT-12-2021-U-LOL-MW",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "6/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UTSA-VIRT-BO-FSF-PT-01-2022-U-B-MW",
+    "Class Start Date": "1/26/2022",
+    "Class End Date": "7/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofU-VIRT-BO-FSF-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/1/2021",
+    "Class End Date": "5/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UNCC-VIRT-BO-FSF-PT-10-2021-U-B-TTH",
+    "Class Start Date": "10/21/2021",
+    "Class End Date": "4/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MSU-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/8/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UCF-VIRT-UXUI-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/29/2021",
+    "Class End Date": "6/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "DU-DEN-VIRT-FSF-PT-12-2021-U-C-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "UofA-VIRT-FSF-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/1/2022",
+    "Class End Date": "8/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-FIN-PT-12-2021-U-C-MW",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "6/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UofM-VIRT-FIN-PT-03-2022-E-LOL-ENTG-TTH",
+    "Class Start Date": "3/8/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "USYD-VIRT-FSF-PT-11-2021-U-C-MTTH",
+    "Class Start Date": "11/22/2021",
+    "Class End Date": "5/19/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "MSU-VIRT-BO-FSF-PT-11-2021-U-B-MW(B)",
+    "Class Start Date": "11/17/2021",
+    "Class End Date": "5/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MSU-VIRT-BO-FSF-PT-11-2021-U-B-MW(A)",
+    "Class Start Date": "11/17/2021",
+    "Class End Date": "5/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MSU-VIRT-DATA-PT-03-2022-U-B-ENTG-TTH",
+    "Class Start Date": "3/10/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofU-SAN-FSF-PT-04-2022-U-C-TTH",
+    "Class Start Date": "4/12/2022",
+    "Class End Date": "10/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "MONU-VIRT-DATA-PT-05-2022-U-LOL-MTTh",
+    "Class Start Date": "5/2/2022",
+    "Class End Date": "10/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "GWU-VIRT-CYBER-PT-01-2022-U-LOL-TTH",
+    "Class Start Date": "1/27/2022",
+    "Class End Date": "7/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "DU-VIRT-UXUI-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "8/31/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UofM-VIRT-BO-FSF-PT-04-2022-U-B-ENTG-TTH",
+    "Class Start Date": "4/21/2022",
+    "Class End Date": "10/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UADEL-VIRT-FSF-PT-11-2021-U-C-MTTH",
+    "Class Start Date": "11/29/2021",
+    "Class End Date": "5/30/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "KU-VIRT-DMKT-PT-04-2022-U-LOL-MW",
+    "Class Start Date": "4/4/2022",
+    "Class End Date": "8/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-DMKT-PT-03-2022-U-LOL-TTH",
+    "Class Start Date": "3/1/2022",
+    "Class End Date": "7/7/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UPENN-VIRT-UXUI-10-2021-U-LOL-MW",
+    "Class Start Date": "10/18/2021",
+    "Class End Date": "4/18/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "VU-VIRT-CYBER-PT-01-2022-U-LOL-TTH",
+    "Class Start Date": "1/25/2022",
+    "Class End Date": "7/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "SMU-DAL-FSF-PT-02-2022-U-C-TTH",
+    "Class Start Date": "2/15/2022",
+    "Class End Date": "8/6/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "RUT-VIRT-DATA-PT-12-2021-U-B-MW",
+    "Class Start Date": "12/1/2021",
+    "Class End Date": "5/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofA-VIRT-BO-FSF-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/9/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofM-VIRT-CYBER-PT-03-2022-U-LOL-ENTG-TTH",
+    "Class Start Date": "3/15/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "USC-LA-VIRT-DATA-PT-12-2021-U-C-TTH",
+    "Class Start Date": "12/7/2021",
+    "Class End Date": "6/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Data Visualization"
+  },
+  {
+    "Class Name": "UCSD-VIRT-DATA-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/18/2022",
+    "Class End Date": "11/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "DU-VIRT-DMKT-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/7/2022",
+    "Class End Date": "7/20/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "CU-VIRT-BO-FSF-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/7/2022",
+    "Class End Date": "9/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCF-VIRT-BO-FSF-PT-04-2022-U-B-MW",
+    "Class Start Date": "4/6/2022",
+    "Class End Date": "9/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UNC-VIRT-BO-FSF-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/7/2022",
+    "Class End Date": "9/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "VU-VIRT-BO-FSF-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/7/2022",
+    "Class End Date": "9/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "SMU-VIRT-FIN-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/7/2022",
+    "Class End Date": "9/22/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-FSF-PT-04-2022-U-LOLC-MW",
+    "Class Start Date": "4/25/2022",
+    "Class End Date": "10/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "RICE-VIRT-UXUI-PT-03-2022-U-B-TTH",
+    "Class Start Date": "3/31/2022",
+    "Class End Date": "9/15/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "UX/UI Blended Online"
+  },
+  {
+    "Class Name": "KU-VIRT-TPM-PT-03-2022-U-LOL-MW",
+    "Class Start Date": "3/2/2022",
+    "Class End Date": "7/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Technology Project Management - Live Online"
+  },
+  {
+    "Class Name": "UT-VIRT-PdM-PT-04-2022-U-B-MW",
+    "Class Start Date": "4/6/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "CU-VIRT-DATA-PT-04-2022-U-B-MW",
+    "Class Start Date": "4/6/2022",
+    "Class End Date": "8/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UofW-VIRT-BO-FSF-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/17/2021",
+    "Class End Date": "5/11/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofM-VIRT-DATA-PT-03-2022-U-B-ENTG-TTH",
+    "Class Start Date": "3/17/2022",
+    "Class End Date": "9/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "CARL-VIRT-BO-FSF-PT-11-2021-U-B-MW",
+    "Class Start Date": "11/10/2021",
+    "Class End Date": "5/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "GT-VIRT-FSF-PT-02-2022-U-LOL-TTH",
+    "Class Start Date": "2/24/2022",
+    "Class End Date": "8/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-PdM-PT-06-2022-U-B-MW",
+    "Class Start Date": "6/13/2022",
+    "Class End Date": "10/17/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Product Management Online"
+  },
+  {
+    "Class Name": "UofU-VIRT-DATA-PT-04-2022-U-B-TTH",
+    "Class Start Date": "4/28/2022",
+    "Class End Date": "10/13/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UR-VIRT-BO-FSF-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/18/2022",
+    "Class End Date": "11/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "BUT-VIRT-BO-FSF-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/18/2022",
+    "Class End Date": "11/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "CARL-VIRT-BO-FSF-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/18/2022",
+    "Class End Date": "11/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UTOR-VIRT-FIN-PT-05-2022-U-LOLC-TTH",
+    "Class Start Date": "5/17/2022",
+    "Class End Date": "11/10/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "RICE-VIRT-BO-FSF-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/18/2022",
+    "Class End Date": "11/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofW-VIRT-BO-FSF-PT-05-2022-U-B-MW",
+    "Class Start Date": "5/18/2022",
+    "Class End Date": "11/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MSU-VIRT-BO-FSF-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/19/2022",
+    "Class End Date": "11/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "GWU-VIRT-UXUI-PT-05-2022-U-LOL-MW",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "11/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-UXUI-PT-05-2022-U-LOL-TTH",
+    "Class Start Date": "5/24/2022",
+    "Class End Date": "11/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UNC-VIRT-DATA-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/19/2022",
+    "Class End Date": "11/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Data Visualization Online"
+  },
+  {
+    "Class Name": "UW-VIRT-FIN-PT-05-2022-U-B-TTH",
+    "Class Start Date": "5/19/2022",
+    "Class End Date": "11/3/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "FinTech Blended Online"
+  },
+  {
+    "Class Name": "GT-VIRT-CYBER-PT-05-2022-U-LOLC-MW",
+    "Class Start Date": "5/16/2022",
+    "Class End Date": "11/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "CU-VIRT-UXUI-PT-05-2022-U-LOL-MW",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "11/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "MIA-VIRT-FIN-PT-05-2022-U-LOLC-MW",
+    "Class Start Date": "5/23/2022",
+    "Class End Date": "11/21/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "FinTech"
+  },
+  {
+    "Class Name": "UPENN-VIRT-FSF-PT-05-2022-U-LOLC-TTH",
+    "Class Start Date": "5/24/2022",
+    "Class End Date": "11/12/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "MONU-VIRT-DMKT-PT-11-2021-U-LOL-MTTh",
+    "Class Start Date": "11/15/2021",
+    "Class End Date": "3/29/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MTTh",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-FSF-PT-04-2022-U-LOLC-TTH",
+    "Class Start Date": "4/19/2022",
+    "Class End Date": "10/8/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-BO-FSF-PT-09-2021-U-B-MW",
+    "Class Start Date": "9/22/2021",
+    "Class End Date": "3/16/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "MSU-VIRT-DMKT-PT-04-2022-E-LOLC-ENTG-TTH",
+    "Class Start Date": "4/19/2022",
+    "Class End Date": "8/25/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Digital Marketing - Live Online"
+  },
+  {
+    "Class Name": "UPENN-VIRT-CYBER-11-2021-U-LOL-TTH",
+    "Class Start Date": "11/30/2021",
+    "Class End Date": "5/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "CWRU-VIRT-CYBER-PT-11-2021-U-LOL-MW",
+    "Class Start Date": "11/1/2021",
+    "Class End Date": "5/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MWS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-BO-FSF-PT-03-2022-U-B-MW",
+    "Class Start Date": "3/9/2022",
+    "Class End Date": "8/24/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "MW",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "RICE-VIRT-BO-FSF-PT-02-2022-U-B-TTH",
+    "Class Start Date": "2/17/2022",
+    "Class End Date": "8/4/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "NU-VIRT-UXUI-PT-04-2022-U-LOL-TTH",
+    "Class Start Date": "5/17/2022",
+    "Class End Date": "11/5/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "UX/UI - Live Online"
+  },
+  {
+    "Class Name": "UCB-VIRT-CYBER-PT-08-2021-U-LOL-TTH",
+    "Class Start Date": "8/31/2021",
+    "Class End Date": "3/1/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TThS",
+    "Cohort: Program Name": "Cybersecurity - Live Online"
+  },
+  {
+    "Class Name": "UTA-VIRT-BO-FSF-PT-01-2022-U-B-TTH",
+    "Class Start Date": "1/27/2022",
+    "Class End Date": "7/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UofM-VIRT-FSF-FT-03-2022-U-LOL-M-F",
+    "Class Start Date": "3/14/2022",
+    "Class End Date": "6/6/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "OSU-VIRT-BO-FSF-PT-01-2022-U-B-TTH",
+    "Class Start Date": "1/27/2022",
+    "Class End Date": "7/14/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  },
+  {
+    "Class Name": "UCSD-SD-VIRT-FSF-FT-12-2021-U-C-M-F",
+    "Class Start Date": "12/13/2021",
+    "Class End Date": "3/16/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex"
+  },
+  {
+    "Class Name": "GT-VIRT-FSF-FT-12-2021-U-LOL-M-F",
+    "Class Start Date": "12/6/2021",
+    "Class End Date": "3/9/2022",
+    "Cohort: Program Type": "Full-Time",
+    "Class Days": "MTWThF",
+    "Cohort: Program Name": "Full Stack Flex Online"
+  },
+  {
+    "Class Name": "UCD-VIRT-BO-FSF-PT-12-2021-U-B-TTH",
+    "Class Start Date": "12/9/2021",
+    "Class End Date": "6/2/2022",
+    "Cohort: Program Type": "Part-Time",
+    "Class Days": "TTh",
+    "Cohort: Program Name": "Full Stack Flex Online Blended"
+  }
+]
