@@ -1,8 +1,8 @@
 [
   {
-    "smell" : "cheesy",
-    "color" : "brown",
-    "taste" : "brocco",
-    "tender" : "yes"
+    "program" : "full muscle flex",
+    "days" : ["M", "W", "S"],
+    "weeks" : "7000",
+    "subjects" : ["JS", "API", "React"]
   }
 ]
