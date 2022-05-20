@@ -52,7 +52,7 @@
 		            //Remove additional text and extract only JSON:
 		            const jsonData = JSON.parse(rep.substring(47).slice(0, -2));
 		            // console.log(rep)
-			    document.getElementById('yoyo').innerHTML = JSON.stringify(jsonData);
+			    document.getElementById('yoyo').innerHTML = JSON.stringify(jsonData, null, '\t');
 			    console.log("================+");
 			    console.log(jsonData);
 			    console.log("================+");
