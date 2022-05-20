@@ -1,0 +1,7 @@
+Notes:
+to find a class
+for(let i=0; i<rows.length; i++) { 
+    if(rows[i].c[0].v == "MONU-VIRT-FSF-PT-05-2022-U-LOLC-MTTh") {
+        console.log("Class be --> " + rows[i].c[0].v)
+    }
+}
