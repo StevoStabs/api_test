@@ -4,11 +4,98 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title></title>
+	<style>
+        table {
+          font-family: Arial, Helvetica, sans-serif;
+          border-collapse: collapse;
+          width: 100%;
+        }
+         
+        table td, table th {
+          border: 1px solid #ddd;
+          padding: 8px;
+        }
+        table tr:nth-child(even){background-color: #f2f2f2;}
+        table tr:hover {background-color: #ddd;}
+         
+        table th {
+          padding-top: 12px;
+          padding-bottom: 12px;
+          text-align: left;
+          background-color: #ff7b00;
+          color: white;
+        }
+    </style>
 </head>
 <body>
-
+	<h1 style="text-align: center;">User Data</h1>
+    <table class="output"></table>
 	<script type="text/javascript">
-		fetch("https://docs.google.com/spreadsheets/d/1iFKOX_0BG46ZVEEPfBnytH8LsFdAsjbDro_BI1PibD4/edit#gid=688560047").then(data => console.log(data));
+
+		const sheetId = '1iFKOX_0BG46ZVEEPfBnytH8LsFdAsjbDro_BI1PibD4';
+		const base = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?`;
+		const sheetName = 'Classes-REPORT';
+		const query = encodeURIComponent('Select *')
+		const url = `${base}&sheet=${sheetName}&tq=${query}`
+		 
+		const data = []
+		document.addEventListener('DOMContentLoaded', init)
+		 
+		const output = document.querySelector('.output')
+		 
+		function init() {
+		    fetch(url)
+		        .then(res => res.text())
+		        .then(rep => {
+		            //Remove additional text and extract only JSON:
+		            const jsonData = JSON.parse(rep.substring(47).slice(0, -2));
+		            console.log(rep)
+		 
+		            const colz = [];
+		            const tr = document.createElement('tr');
+		            //Extract column labels
+		            jsonData.table.cols.forEach((heading) => {
+		                if (heading.label) {
+		                    let column = heading.label;
+		                    colz.push(column);
+		                    const th = document.createElement('th');
+		                    th.innerText = column;
+		                    tr.appendChild(th);
+		                }
+		            })
+		            output.appendChild(tr);
+		 
+		            //extract row data:
+		            jsonData.table.rows.forEach((rowData) => {
+		                const row = {};
+		                colz.forEach((ele, ind) => {
+		                    row[ele] = (rowData.c[ind] != null) ? rowData.c[ind].v : '';
+		                })
+		                data.push(row);
+		            })
+		            processRows(data);
+		        })
+		}
+		  
+		function processRows(json) {
+		    json.forEach((row) => {
+		 
+		        const tr = document.createElement('tr');
+		        const keys = Object.keys(row);
+		     
+		        keys.forEach((key) => {
+		            const td = document.createElement('td');
+		            td.textContent = row[key];
+		            tr.appendChild(td);
+		        })
+		        output.appendChild(tr);
+		    })
+		}
+
+
+
+
+
 	</script>
 </body>
 </html>
