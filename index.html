@@ -28,8 +28,10 @@
     </style>
 </head>
 <body>
-	<h1 style="text-align: center;">User Data</h1>
-    <table class="output"></table>
+    	<h1 style="text-align: center;">User Data</h1>
+	<pre id="yoyo"></pre>
+	<table class="output"></table>
+
 	<script type="text/javascript">
 
 		const sheetId = '1iFKOX_0BG46ZVEEPfBnytH8LsFdAsjbDro_BI1PibD4';
@@ -49,8 +51,8 @@
 		        .then(rep => {
 		            //Remove additional text and extract only JSON:
 		            const jsonData = JSON.parse(rep.substring(47).slice(0, -2));
-		            console.log(rep)
-			    
+		            // console.log(rep)
+			    document.getElementById('pre').innerHTML(JSON.stringify(jsonData));
 			    console.log("================+");
 			    console.log(jsonData);
 			    console.log("================+");
@@ -67,7 +69,7 @@
 		                    tr.appendChild(th);
 		                }
 		            })
-		            output.appendChild(tr);
+		            // output.appendChild(tr);
 		 
 		            //extract row data:
 		            jsonData.table.rows.forEach((rowData) => {
@@ -92,7 +94,7 @@
 		            td.textContent = row[key];
 		            tr.appendChild(td);
 		        })
-		        output.appendChild(tr);
+		        // output.appendChild(tr);
 		    })
 		}
 
